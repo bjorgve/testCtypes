@@ -1,1 +1,7 @@
 *.out
+*.a
+*.o
+*.so
+*.ipynb_checkpoints/
+*.swp
+build/
